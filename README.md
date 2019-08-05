@@ -5,7 +5,7 @@
 [![Download numbers](https://img.shields.io/crates/d/basic_tar.svg)](https://crates.io/crates/basic_tar)
 [![Travis CI](https://travis-ci.org/KizzyCode/basic_tar.svg?branch=master)](https://travis-ci.org/KizzyCode/basic_tar)
 [![AppVeyor CI](https://ci.appveyor.com/api/projects/status/github/KizzyCode/basic_tar?svg=true)](https://ci.appveyor.com/project/KizzyCode/basic-tar)
-[![dependency status](https://deps.rs/crate/basic_tar/0.1.3/status.svg)](https://deps.rs/crate/basic_tar/0.1.3)
+[![dependency status](https://deps.rs/crate/basic_tar/0.1.1/status.svg)](https://deps.rs/crate/basic_tar/0.1.1)
 
 # basic_tar
 Welcome to `basic_tar` 🎉

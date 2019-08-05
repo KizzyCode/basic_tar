@@ -1,6 +1,6 @@
 [package]
 name = "basic_tar"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["KizzyCode/Keziah Biermann <development@kizzycode.de>"]
 description = "Building blocks to read and write classic oldstyle tar archives and streams"
